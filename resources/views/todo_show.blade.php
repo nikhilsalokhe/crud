@@ -25,7 +25,7 @@
     </style>
     
 <body>
-  <h1>click to add record</h1>
+  
  <button><a href="todo_create">Add Record</a></button> <br><br> 
 
    {{session('msg')}} 
