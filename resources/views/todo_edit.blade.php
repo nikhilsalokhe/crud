@@ -31,7 +31,7 @@
     @csrf
   <table id="customers">
     <tr>
-      <td>name</td>
+      <td>User name</td>
       <td><input type="textname" name="name" required value="{{$todoArr->name}}"></td>
       
     </tr>
