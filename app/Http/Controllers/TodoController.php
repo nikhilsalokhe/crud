@@ -7,10 +7,9 @@ use Illuminate\Http\Request;
 
 class TodoController extends Controller
 {
-   
+    //function to load index page for form and table
     public function index()
     {
-        //
         return view('todo_create');
     }
 
