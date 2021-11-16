@@ -23,4 +23,4 @@ Route::get('/', function () {
 // Route::Post('todo_submit','TodoController@store');
 // Route::get('todo_edit/{id}','TodoController@edit');
 // Route::post('todo_update/{id}','TodoController@update');
-Route::resource('crud','TodoController');
+// Route::resource('crud','TodoController');
